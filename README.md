@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaditya-biswas
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Node.Js
-- 💞️ I’m looking to collaborate on Web dev
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on WebDev, AI, System programming  
 - 📫 How to reach me aadityabiswasdelhi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Would love to collaborate. 
